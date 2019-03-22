@@ -146,6 +146,16 @@ header nav {
     justify-content: space-evenly;
 }
 
+h3 {
+    color: black;
+    font-size: 16px;
+}
+
+p {
+    color: black;
+    font-size: 12px;
+}
+
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
@@ -198,15 +208,18 @@ header nav {
 }
 
 .about-content-main {
-    margin: 10px;
-    padding: 25px;
-    border-bottom: 10px solid black;
+    border-bottom: 2px solid black;
 }
 
 .about-content-wrap {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
+
+/* .about-div1 {
+
+} */
 
 
 .bottom-content {

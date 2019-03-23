@@ -157,50 +157,6 @@ header nav {
     justify-content: center;
 }
 
-
-/* middle-content-about*/
-
-.about-content-main {
-    padding: 10px;
-    border-bottom: 1px dashed black;
-}
-
-.middle-content-about {
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-    border-bottom: 1px dashed black;
-}
-
-.middle-content-about h2 {
-    padding: 0 2%;
-    margin-bottom: 0;
-}
-
-.middle-content-about .boxes-about {
-    width: 49.5%;
-    /* display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly; */
-}
-
-/* .middle-content-about .m-boxes .m-box {
-    width: 12.5%;
-    height: 100px;
-
-    /* background: black; */
-    /* margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center; */ */
-}
-
-/* END - middle-content-about */
-
-
-
-*/
 .box1 {
     background-color: teal;
 }

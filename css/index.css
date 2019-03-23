@@ -179,27 +179,11 @@ header nav {
 
 .middle-content-about .boxes-about {
     width: 49.5%;
-    /* display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly; */
 }
-
-/* .middle-content-about .m-boxes .m-box {
-    width: 12.5%;
-    height: 100px;
-
-    /* background: black; */
-    /* margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center; */ 
 
 
 /* END - middle-content-about */
 
-
-*/
 .box1 {
     background-color: teal;
 }
